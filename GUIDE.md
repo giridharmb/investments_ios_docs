@@ -42,6 +42,11 @@ A **profile** is a complete, independent plan: its own country and assumptions, 
 - **Backups**: export one profile or all profiles. When importing, add the backup as a new profile or replace the current one.
 - **iCloud**: all profiles sync. Each device remembers which profile it has open.
 
+## Reading the charts
+- **Long charts** (spending trend, net worth, projections) show a window of history. **Swipe sideways** or use the **‹ › Latest** buttons under the chart. Bar charts snap to whole months.
+- **Tap** a bar or point to see its details; tap it again (or scroll) to dismiss.
+- Shorter charts: drag across them to scrub through values.
+
 ## Screens
 
 ### Dashboard
