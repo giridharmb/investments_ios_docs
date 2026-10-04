@@ -13,6 +13,18 @@ Only four things are **required** for meaningful results:
 
 Everything else is **recommended** (debts, savings, investments, state) or **optional** (W-2, filing status, Social Security estimate, goals, other assets). The **Inputs Checklist** screen shows what's missing and what each input unlocks.
 
+## Menus & keyboard shortcuts
+
+Everything is reachable from the iPad menu bar (swipe down from the top or hold ⌘ on a hardware keyboard to see shortcuts).
+
+| Menu | Commands |
+|---|---|
+| **File** | **New ▸** Income (⌥⌘I), Recurring Expense (⌥⌘E), One-off Expense (⌘N), Debt/EMI (⌥⌘D), Savings Account, Savings Goal, Asset, Investment (⌥⌘V), W-2 · **New Profile…** (⇧⌘N) · **Import Backup…** (⇧⌘I) · **Export Current Profile…** (⇧⌘E) · Export All Profiles… · Export Expenses as CSV… |
+| **View** | **Hide Amounts** (⇧⌘H) · **Appearance** ▸ System / Light / Dark · **Lock WealthPilot** (⌃⌘L, when app lock is on) |
+| **Profile** | Every profile with a checkmark on the active one — switch with **⌃⌘1…9** · New / Rename / Duplicate current profile · **Manage Profiles…** (⇧⌘P) · Edit Profile & Assumptions |
+| **Go** | All screens — Dashboard ⌘1, AI Advisor ⌘2, Income ⌘3, Taxes ⌘4, Expenses ⌘5, Debts ⌘6, Savings ⌘7, Investments ⌘8, Projections ⌘9, Retirement ⌘0 |
+| **Help** | User guide, methodology, privacy policy, report an issue |
+
 ## Profiles
 
 A **profile** is a complete, independent plan: its own country and assumptions, income, expenses, debts, savings, investments, goals, W-2s, net-worth history — and therefore its own results. Use them for:

@@ -1,5 +1,9 @@
 # Release notes
 
+## 1.3 — October 2026
+- iPad menu bar commands and keyboard shortcuts (File ▸ New, Profile, Go, View, Help).
+- Fixed signing: new iCloud container identifier.
+
 ## 1.2 — October 2026
 - Profiles: multiple independent plans with their own inputs, results and history. Create blank / copied / sample profiles; rename, restyle, duplicate, export, delete; compare results side by side. Existing data becomes the “Default” profile.
 - Backups: export one or all profiles; import as a new profile or replace the current one.
