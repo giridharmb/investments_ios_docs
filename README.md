@@ -47,6 +47,18 @@ Shown on iPad (sidebar) — on iPhone the same screens open from a navigation li
 | **Settings & iCloud** | **Profiles** | |
 | ![](screenshots/settings.png) | ![](screenshots/profiles.png) | |
 
+### macOS
+
+| Dashboard | Dashboard charts | Projections |
+|---|---|---|
+| ![](screenshots/mac/01-dashboard.png) | ![](screenshots/mac/02-dashboard-charts.png) | ![](screenshots/mac/03-projections.png) |
+| **Expenses & Rent** | **Investments** | **Taxes** |
+| ![](screenshots/mac/04-expenses-and-rent.png) | ![](screenshots/mac/05-investments.png) | ![](screenshots/mac/06-taxes.png) |
+| **Retirement** | **Wheel strategy** | **Debts & EMIs** |
+| ![](screenshots/mac/07-retirement.png) | ![](screenshots/mac/08-wheel-strategy.png) | ![](screenshots/mac/09-debts-and-emis.png) |
+| **Profiles** | | |
+| ![](screenshots/mac/10-profiles.png) | | |
+
 ### iPhone
 
 <img src="screenshots/iphone_dashboard.png" width="300">
