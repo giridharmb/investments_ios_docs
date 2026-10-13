@@ -25,6 +25,12 @@ Everything is reachable from the iPad menu bar (swipe down from the top or hold 
 | **Go** | All screens — Dashboard ⌘1, AI Advisor ⌘2, Income ⌘3, Taxes ⌘4, Expenses ⌘5, Debts ⌘6, Savings ⌘7, Investments ⌘8, Projections ⌘9, Retirement ⌘0 |
 | **Help** | User guide, methodology, privacy policy, report an issue |
 
+## Widgets, Siri & Shortcuts
+
+Add **Money at a glance** from the Home Screen (touch and hold → Edit → Add Widget) or the Lock Screen (Customize): small shows net worth and spent this month; medium adds free cash flow, budget left and an *Add expense* button; the Lock Screen versions show spending, a budget gauge or net worth. Tapping opens the app on the Dashboard or Budget. With *Hide amounts* or App Lock on, widgets show •••• instead of numbers.
+
+Say **"Log an expense in WealthPilot"** to add a purchase by voice (amount, then optionally what it was and a category), or **"What's my net worth in WealthPilot"** for net worth, this month's spending and budget left. Both actions are also in the Shortcuts app.
+
 ## Profiles
 
 A **profile** is a complete, independent plan: its own country and assumptions, income, expenses, debts, savings, investments, goals, W-2s, net-worth history — and therefore its own results. Use them for:
@@ -71,6 +77,9 @@ Import from PDF/image file, Photos, or the built-in document camera. Text is rec
 
 ### Expenses & Rent
 Recurring bills (with frequency, start/end dates) and one-off purchases. Mark items essential vs. discretionary. The Rent card shows housing as % of gross pay, the 30% affordability limit, your state's rough median rent and 5-year rent cost. The 50/30/20 card compares needs/wants/savings with targets.
+
+**Import a statement:** *+ → Import bank or card statement…* takes a CSV, OFX, QFX or QIF file from your bank's or card's website. Review every line before importing: ticked lines become one-off expenses with a guessed category (tap the category to change it — other lines from the same merchant follow, and the app remembers it). Lines already recorded, recurring bills you already track, card payments and transfers start unticked; money in is listed separately and isn't imported. If the file doesn't say which way round amounts are, flip *Purchases are positive amounts in this file*. Learned merchants are listed under *Categories → Import rules*.
+**Scan a receipt:** *+ → Scan a receipt…* and pick the camera, a photo or a file. The store, total and date open in a new expense for you to check before saving.
 
 ### Budget & Bills
 **Budgets:** use the toolbar's *Edit budgets* to set a monthly limit per category (leave 0 to skip one), or *Suggest from the last 3 months* to start from your averages for flexible spending. Each bar shows spent vs. limit; the tick marks how far through the month you are, so a bar past the tick is ahead of pace. Recurring bills count in full for the month; one-off purchases count as logged. Orange means you're on pace to exceed the budget, red means you already have.
